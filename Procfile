@@ -1,0 +1,1 @@
+web: panel serve --address="0.0.0.0" --port=$PORT dataviz_bankai_panel.py --allow-websocket-origin=bankaiapplication-948ce1f87c43.herokuapp.com
